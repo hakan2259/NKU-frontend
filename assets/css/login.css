@@ -1,0 +1,75 @@
+*{
+    font-family: 'Lora', serif;
+
+}
+body{
+    background-color: #fff;
+}
+.main-section{
+    margin: 0 auto;
+    margin-top: 140px;
+    padding: 0px;
+}
+.modal-content{
+    background-color: #3E3935;
+    opacity: .95;
+    padding: 0 18px;
+    box-shadow: 0px 0px 3px #3E3935;
+}
+
+.user-img{
+    margin-top: -60px;
+    margin-bottom: 35px;
+}
+.user-img img{
+    height: 120px;
+    width: 120px;
+    box-shadow: 0px 0px 3px #3E3935;
+    border-radius: 50%;
+}
+.form-group{
+    margin-bottom: 25px;
+}
+.form-group input{
+    height: 42px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 16px;
+    padding-left: 40px;
+}
+.fa-user,.fa-lock{
+   
+    position: absolute;
+    font-size: 22px;
+    color: #555e60;
+    left: 28px;
+    padding-top: 10px;
+}
+button{
+    width: 40%;
+    margin: 5px 0 25px;
+}
+.btn{
+    background-color: #01AEBC;
+    color: #fff;
+    font-size: 19px;
+    padding: 7px 14px;
+    border-radius: 5px;
+   
+}
+.btn:hover, .btn:focus{
+    color:#fff!important;
+}
+.fa-sign-in{
+    margin-right: 7px;
+}
+.forgot{
+    padding: 5px 0 25px;
+}
+.forgot a{
+    color: #fff;
+}
+.footer-line{
+    background-color: #fff;
+    
+}

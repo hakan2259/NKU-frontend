@@ -1,5 +1,4 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 *{
     font-family: 'Lora', serif;
 
@@ -75,7 +74,7 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-    height: 525px;
+    height: 625px;
     width: 100%;
     background: rgba(62, 57, 53,.3);
 }
