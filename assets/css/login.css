@@ -3,7 +3,7 @@
 
 }
 body{
-    background-color: #fff;
+    background-color: #01AEBC;
 }
 .main-section{
     margin: 0 auto;
@@ -72,4 +72,7 @@ button{
 .footer-line{
     background-color: #fff;
     
+}
+.justify-content-center a{
+    color: #fff;
 }
